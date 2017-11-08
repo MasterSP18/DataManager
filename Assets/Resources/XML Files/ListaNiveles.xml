@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MINI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<etapa>
+		<nivel>1</nivel>
+		<compradoresMin>8</compradoresMin>
+		<compradoresMax>14</compradoresMax>
+		<impostoresMin>2</impostoresMin>
+		<impostoresMax>6</impostoresMax>
+		<metaDinero>1000000</metaDinero>
+		<limiteTiempo>90</limiteTiempo>
+	</etapa>
+	<etapa>
+		<nivel>2</nivel>
+		<compradoresMin>12</compradoresMin>
+		<compradoresMax>18</compradoresMax>
+		<impostoresMin>3</impostoresMin>
+		<impostoresMax>6</impostoresMax>
+		<metaDinero>1400000</metaDinero>
+		<limiteTiempo>90</limiteTiempo>
+	</etapa>
+	<etapa>
+		<nivel>3</nivel>
+		<compradoresMin>15</compradoresMin>
+		<compradoresMax>23</compradoresMax>
+		<impostoresMin>5</impostoresMin>
+		<impostoresMax>7</impostoresMax>
+		<metaDinero>1600000</metaDinero>
+		<limiteTiempo>120</limiteTiempo>
+	</etapa>
+</MINI>
